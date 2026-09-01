@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="https://maherharp.github.io">
-    <img src="./assets/maher_os.gif" width="350" alt="MAHER_OS animation">
+    <img src="./assets/maher_os.gif" width="500" alt="MAHER_OS animation">
   </a>
 </div>
 

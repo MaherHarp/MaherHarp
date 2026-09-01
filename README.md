@@ -6,7 +6,6 @@
 
 **Wanna-Be Researcher / Builder**
 
-<br>
 
 <a href="https://maherharp.github.io">
   <img src="https://img.shields.io/badge/ENTER_MAHER__OS-FFFFFF?style=for-the-badge&logo=gnometerminal&logoColor=000000">

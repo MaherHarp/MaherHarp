@@ -1,28 +1,16 @@
-<table>
-  <tr>
-    <td valign="middle">
+<div align="center">
 
-<h1>MAHER_OS</h1>
+# `MAHER_OS`
 
-<h3><code>CS ∩ Math ⊕ Neuroₑ꜀</code></h3>
+### `CS ∩ Math ⊕ Neuroₑ꜀`
 
-<b>Wanna-Be Researcher / Builder</b>
+**Wanna-Be Researcher / Builder**
 
-<br><br>
+<br>
 
 <a href="https://maherharp.github.io">
   <img src="https://img.shields.io/badge/ENTER_MAHER__OS-FFFFFF?style=for-the-badge&logo=gnometerminal&logoColor=000000">
 </a>
-
-    </td>
-
-    <td align="right" valign="middle">
-      <a href="https://maherharp.github.io">
-        <img src="./assets/maher_os.gif" width="360" alt="MAHER_OS animation">
-      </a>
-    </td>
-  </tr>
-</table>
 
 <br><br>
 
@@ -31,6 +19,15 @@
 </div>
 
 <br>
+
+<div align="center">
+  <a href="https://maherharp.github.io">
+    <img src="./assets/maher_os.gif" width="700" alt="MAHER_OS animation">
+  </a>
+</div>
+
+
+<br><br>
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐

@@ -1,6 +1,6 @@
 <div align="center">
 
-# `MAHER_OS`
+# `MAHER HARP`
 
 ### `CS ∩ Math ⊕ Neuroₑ꜀`
 

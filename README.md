@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/ENTER_MAHER__OS-FFFFFF?style=for-the-badge&logo=gnometerminal&logoColor=000000">
 </a>
 
-<br><br>
+<br>
 
 <sub>interactive terminal portfolio · built because a normal README was boring</sub>
 
@@ -27,7 +27,7 @@
 </div>
 
 
-<br><br>
+<br>
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐

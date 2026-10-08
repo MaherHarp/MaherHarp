@@ -2,7 +2,7 @@
 
 # `MAHER HARP`
 
-### `CS ∩ Math ⊕ Neuroₑ꜀`
+### `(CS ∩ Math) + Neuro`
 
 **Wanna-Be Researcher / Builder**
 
